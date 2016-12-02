@@ -1,0 +1,40 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.phonegap.plugins.nativesettingsopener": {
+            "PACKAGE_NAME": "com.kopi.testapp"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.kopi.testapp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.kopi.testapp"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.kopi.testapp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.kopi.testapp"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.kopi.testapp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.kopi.testapp"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.kopi.testapp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.kopi.testapp"
+        }
+    }
+}
